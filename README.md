@@ -1,9 +1,17 @@
 # Click-Stream-Analysis
+*WIP*
 
 Originally this challenge and the scope of the work was posted at [Click Stream Challenge](https://github.com/prakashrd/spark-challenge-public). 
 The challenge is to analyse the click stream and derive analytics on user click count and product category count.
 By the time i started doing this project the data files were removed so just borrowed the idea to do this activity.
 
+## Development
+### Setup Local Development Environment ( without Docker )
+ 1. Install [Java8 SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+ 1. Install [Maven](https://maven.apache.org/install.html). Maven is required for device detection using [DeviceAtlas](https://deviceatlas.com/) Java API.
+ 1. Install [Scala](https://www.scala-lang.org/download/install.html).
+ 1. Install [sbt](http://www.scala-sbt.org/release/docs/Setup.html)
+ 
 
 ## Overview
 ### Inputs
